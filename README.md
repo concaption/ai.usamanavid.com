@@ -1,4 +1,4 @@
-# Applied AI
+# Δ DELTA
 
 ## Getting Super Powers
 

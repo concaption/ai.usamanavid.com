@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Applied AI](README.md)
+* [Δ DELTA](README.md)
 * [Neural Networks Basics](nn-basics.md)
 
